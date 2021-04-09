@@ -1,0 +1,18 @@
+{
+  "name": "DevelopmentRe",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/**"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
